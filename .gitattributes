@@ -61,3 +61,9 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+
+
+Scripts/jquery*.js linguist-vendored
+Scripts/bootstrap*.js linguist-vendored
+Scripts/modernizr*.js linguist-vendored
+Scripts/respond*.js linguist-vendored
