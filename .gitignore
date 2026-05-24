@@ -361,3 +361,13 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+
+
+# Vendor JavaScript files (exclude from GitHub language stats)
+Scripts/jquery-*.js
+Scripts/jquery.validate*.js
+Scripts/bootstrap*.js
+Scripts/modernizr*.js
+Scripts/respond*.js
+Scripts/_references.js
